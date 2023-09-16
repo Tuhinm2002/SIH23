@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-fredoka-one: "Fredoka One";
+  --font-bungee-shade: "Bungee Shade";
+
+  /* font sizes */
+  --font-size-13xl: 2rem;
+  --font-size-sm: 0.88rem;
+  --font-size-smi-6: 0.79rem;
+  --font-size-19xl-7: 2.42rem;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gainsboro-100: rgba(217, 217, 217, 0);
+  --color-gray-100: rgba(255, 255, 255, 0);
+}
